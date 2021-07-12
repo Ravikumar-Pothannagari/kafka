@@ -83,4 +83,3 @@ E:\Softwares\Kafka\kafka_2.13-2.8.0>kafka-console-producer --broker-list localho
 E:\Softwares\Kafka\kafka_2.13-2.8.0>kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic example_topic_2
 
 
-https://www.javatpoint.com/kafka-console-consumer
